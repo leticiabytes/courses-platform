@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Yungas Challenge" title="#Courses Platform App" src="https://i.ibb.co/wy1Lp4P/bi-book.png" width="250px" />
+    <img alt="Courses Platform" title="#Courses Platform App" src="https://cdn-icons-png.flaticon.com/512/225/225932.png" width="250px" />
 </h1>
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lvieira268/yungas-challenge">
@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://github.com/lvieira268/yungas-challenge/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lvieira268/yungas-challenge">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lvieira268/courses-platform">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
